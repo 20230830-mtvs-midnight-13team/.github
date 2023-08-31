@@ -1,9 +1,9 @@
 # 🧹 RecycleGame
 ## Back-end Repository
-[2023-MTVS-midnight back end repository](https://github.com/20230830-mtvs-midnight-13team/back-end)
+[back end repository](https://github.com/20230830-mtvs-midnight-13team/back-end)
 
 ## XR-Unity Repository
-[2023-MTVS-midnight XR-unity repository](https://github.com/20230830-mtvs-midnight-13team/XR-unity)
+[XR-unity repository](https://github.com/20230830-mtvs-midnight-13team/XR-unity)
 
 ## 3D-Modeling Repository
 [Art-Team repository](https://github.com/20230830-mtvs-midnight-13team/art-team)
