@@ -43,6 +43,15 @@
     <td align="center">Nam Hyo Jeong</td>
     <td align="center">Bae Min Jae</td>
   </tr>
+
+  <tr>
+    <td align="center">3D-Model</td>
+    <td align="center">XR(Unity)</td>
+    <td align="center">Server</td>
+    <td align="center">Server</td>
+    <td align="center">XR(Unity)</td>
+  </tr>
+  
 </table>
 
 <br>
