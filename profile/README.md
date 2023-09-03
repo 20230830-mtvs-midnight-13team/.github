@@ -26,6 +26,8 @@
     <td align="center"><a href="https://github.com/jinvvoo"><img src="https://avatars.githubusercontent.com/jinvvoo" width="150px;" alt="">
     <td align="center"><a href="https://github.com/namhyojeong"><img src="https://avatars.githubusercontent.com/namhyojeong" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Min-Jae-Bae"><img src="https://avatars.githubusercontent.com/Min-Jae-Bae" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/JS-HAN214"><img src="https://avatars.githubusercontent.com/JS-HAN214" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
     </td>
   </tr>
   <tr>
@@ -34,6 +36,8 @@
     <td align="center"><a href="https://github.com/jinvvoo"><b>김진우</b></td>
     <td align="center"><a href="https://github.com/namhyojeong"><b>남효정</b></td>
     <td align="center"><a href="https://github.com/Min-Jae-Bae"><b>배민재</b></td>
+    <td align="center"><a href="https://github.com/JS-HAN214"><b>한정수</b></td>
+    <td align="center"><a href="https://github.com/JS-HAN214"><b>김태현</b></td>
   </tr>
 
   <tr>
@@ -42,6 +46,8 @@
     <td align="center">Kim Jin Woo</td>
     <td align="center">Nam Hyo Jeong</td>
     <td align="center">Bae Min Jae</td>
+    <td align="center">Han jung soo</td>
+    <td align="center">Kim tae hyun</td>
   </tr>
 
   <tr>
@@ -50,6 +56,8 @@
     <td align="center">Server</td>
     <td align="center">Server</td>
     <td align="center">XR(Unity)</td>
+    <td align="center">기획</td>
+    <td align="center">데이터 사이언스</td>
   </tr>
   
 </table>
