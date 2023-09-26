@@ -37,7 +37,7 @@
     <td align="center"><a href="https://github.com/namhyojeong"><b>남효정</b></td>
     <td align="center"><a href="https://github.com/Min-Jae-Bae"><b>배민재</b></td>
     <td align="center"><a href="https://github.com/JS-HAN214"><b>한정수</b></td>
-    <td align="center"><a href="https://github.com/JS-HAN214"><b>김태현</b></td>
+    <td align="center"><a href="https://github.com/"><b>김태현</b></td>
   </tr>
 
   <tr>
