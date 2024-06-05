@@ -33,7 +33,6 @@
     <td align="center"><a href="https://github.com/KooSojin"><b>구소진</b></td>
     <td align="center"><a href="https://github.com/JVM1237"><b>김도현</b></td>
     <td align="center"><a href="https://github.com/jinvvoo"><b>김진우</b></td>
-    <td align="center"><a href="https://github.com/namhyojeong"><b>남효정</b></td>
     <td align="center"><a href="https://github.com/Min-Jae-Bae"><b>배민재</b></td>
     <td align="center"><a href="https://github.com/JS-HAN214"><b>한정수</b></td>
     <td align="center"><a href="https://github.com/"><b>김태현</b></td>
@@ -43,7 +42,6 @@
     <td align="center">Koo So Jin</td>
     <td align="center">Kim Do Hyun</td>
     <td align="center">Kim Jin Woo</td>
-    <td align="center">Nam Hyo Jeong</td>
     <td align="center">Bae Min Jae</td>
     <td align="center">Han jung soo</td>
     <td align="center">Kim tae hyun</td>
@@ -52,7 +50,6 @@
   <tr>
     <td align="center">3D-Model</td>
     <td align="center">XR(Unity)</td>
-    <td align="center">Server</td>
     <td align="center">Server</td>
     <td align="center">XR(Unity)</td>
     <td align="center">기획</td>
