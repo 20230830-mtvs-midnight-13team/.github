@@ -24,7 +24,6 @@
     <td align="center"><a href="https://github.com/KooSojin"><img src="https://avatars.githubusercontent.com/KooSojin" width="150px;" alt="">
     <td align="center"><a href="https://github.com/JVM1237"><img src="https://avatars.githubusercontent.com/JVM1237" width="150px;" alt="">
     <td align="center"><a href="https://github.com/jinvvoo"><img src="https://avatars.githubusercontent.com/jinvvoo" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/namhyojeong"><img src="https://avatars.githubusercontent.com/namhyojeong" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Min-Jae-Bae"><img src="https://avatars.githubusercontent.com/Min-Jae-Bae" width="150px;" alt="">
     <td align="center"><a href="https://github.com/JS-HAN214"><img src="https://avatars.githubusercontent.com/JS-HAN214" width="150px;" alt="">
     <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
